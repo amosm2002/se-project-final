@@ -1,3 +1,6 @@
+To View the completed site click on this link https://se-project-known.web.app/home
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
